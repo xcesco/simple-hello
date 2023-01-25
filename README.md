@@ -12,6 +12,8 @@ The service documentation is available here:
 http://localhost:8080/swagger-ui/index.html
 ```
 
+![img.png](docs/image01.png)
+
 ## Build project
 To build the project, simply execute:
 
